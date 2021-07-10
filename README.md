@@ -21,3 +21,5 @@ I'm a symbiosis of designer and frontend developer. Located in Minsk, Belarus âš
 <img align="left" alt="vue" src="https://img.shields.io/badge/vue%20-%233fb27f.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 <img align="left" alt="nuxt" src="https://img.shields.io/badge/nuxt%20-%2300c58e.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white" />
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-%23212121.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+
+<br/>
