@@ -8,7 +8,7 @@ I'm a symbiosis of designer and frontend developer. Located in Minsk, Belarus âš
 ---
 
 ### Spies are tracking me here
-[<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-%232a9fd9.svg?&style=for-the-badge&logo=telegram" />](https://t.me/pyncz/)
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-%232992d5.svg?&style=for-the-badge&logo=telegram" />](https://t.me/pyncz/)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pyncz/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-%23212121.svg?&style=for-the-badge&logo=gmail" />](mailto:pyncz.dev@gmail.com)
 
