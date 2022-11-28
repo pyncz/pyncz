@@ -5,8 +5,6 @@ I'm a symbiosis of a frontend developer and a designer. Minsk, Belarus ⚪🔴�
 - chaos + order = 🔥
 - bold designs + clean code = 🖤
 
-View my opensource repos [here](https://github.com/voire).
-
 ---
 
 #### Spies are tracking me here
