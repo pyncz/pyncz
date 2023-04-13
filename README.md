@@ -1,6 +1,6 @@
 ### Yo
 
-I'm a symbiosis of a frontend developer and a designer. Minsk, Belarus ⚪🔴⚪
+I'm a frontend dev from Minsk, Belarus ⚪🔴⚪
 
 - chaos + order = 🔥
 - bold designs + clean code = 🖤
