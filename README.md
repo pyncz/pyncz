@@ -1,15 +1,14 @@
 ### Yo
 
-I'm a frontend dev from Minsk, Belarus ⚪🔴⚪
+I'm a software dev from Minsk, Belarus ⚪🔴⚪
 
-- chaos + order = 🔥
-- bold designs + clean code = 🖤
+Bold designs + clean code = 🖤
 
 ---
 
 #### Spies are tracking me here
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pyncz/)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231d9bf0.svg?&logo=twitter&logoColor=white" />](https://twitter.com/iampyncz)
+[<img alt="x" src="https://img.shields.io/badge/x%20%2F%20twitter-%23242431.svg?&logo=x&logoColor=white" />](https://x.com/iampyncz)
 [<img alt="gmail" src="https://img.shields.io/badge/gmail-%23D85140.svg?&logo=gmail&logoColor=white" />](mailto:pyncz.dev@gmail.com)
 
 #### I can argue about these things
