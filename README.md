@@ -8,7 +8,6 @@ I'm a frontend dev from Minsk, Belarus ⚪🔴⚪
 ---
 
 #### Spies are tracking me here
-[<img alt="telegram" src="https://img.shields.io/badge/telegram-%232992d5.svg?&logo=telegram" />](https://t.me/pyncz/)
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pyncz/)
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231d9bf0.svg?&logo=twitter&logoColor=white" />](https://twitter.com/iampyncz)
 [<img alt="gmail" src="https://img.shields.io/badge/gmail-%23D85140.svg?&logo=gmail&logoColor=white" />](mailto:pyncz.dev@gmail.com)
